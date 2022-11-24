@@ -53,7 +53,7 @@ int main()
 	}
 
 	//add 2 unis to PU3
-	for (int i = 0; i < 3; i++)
+	for (int i = 0; i < 2; i++)
 	{
 		PU3->AddOneCollege();
 	}
