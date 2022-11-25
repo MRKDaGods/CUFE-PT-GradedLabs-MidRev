@@ -65,12 +65,12 @@ int main()
 			S1.SetBudget(budget);
 			break;
 
-		case 1: //when i == 1, set data of S1
+		case 1: //when i == 1, set data of PS2
 			PS2->SetName(name);
 			PS2->SetBudget(budget);
 			break;
 
-		case 2: //when i == 2, set data of S1
+		case 2: //when i == 2, set data of PS3
 			PS3->SetName(name);
 			PS3->SetBudget(budget);
 			break;
